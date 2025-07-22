@@ -105,7 +105,7 @@ Contributions are welcome! Feel free to open issues or submit PRs.
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
-This project is licensed under the MIT License. See [LICENSE](.LICENSE) for details.
+This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
 
 ## 🙌 Acknowledgments
