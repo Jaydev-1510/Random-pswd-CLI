@@ -50,7 +50,7 @@ source venv\Scripts\activate
 
 Run the password generator:
 ```
-python password_generator.py
+python pswd-generator.py
 ```
 
 ### 🔤 Options
