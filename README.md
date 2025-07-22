@@ -74,7 +74,7 @@ Available flags:
 
 ### 🔍 Example
 ```
-python password_generator.py --length 20 --uppercase --digits --symbols --copy
+python pswd-generator.py --length 20 --uppercase --digits --symbols --copy
 ```
 > Output: Generated Password: 8$GfL9@dN3w#XZr2pWqY (Copied to clipboard ✅)
 
